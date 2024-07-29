@@ -434,8 +434,8 @@ img {
 }
 
 .page-footer-container {
-  display: flex;
-  align-items: baseline;
+  /* display: flex; */
+  /* align-items: baseline; */
 }
 
 .footer-logo-container {
@@ -453,7 +453,7 @@ img {
   /* line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd; */
-  max-width: 264px;
+  /* max-width: 264px; */
   /* margin-top: 16px; */
 }
 
@@ -504,7 +504,7 @@ img {
 .footer-subscribe-input {
   /* border: 1px solid #fff;
   border-radius: 4px; */
-  width: 264px;
+  /* width: 264px; */
   /* height: 40px; */
   /* background-color: transparent;
   padding-left: 16px;
