@@ -323,12 +323,14 @@ img {
 }
 
 .mobile-menu-nav-link:hover,
-.mobile-menu-nav-link:focus {
+.mobile-menu-nav-link:focus,
+.mobile-menu-nav-link.current {
   color: #404bbf;
 }
 
 .mobile-menu-address-link:hover,
-.mobile-menu-address-link:focus {
+.mobile-menu-address-link:focus,
+.mobile-menu-address-link.current {
   color: #4d5ae5;
 }
 
@@ -555,6 +557,10 @@ img {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+  }
+
+  .features-item-text {
+    font-weight: 400;
   }
 
   .features-list {
@@ -917,6 +923,7 @@ img {
 
   .footer-subscribe-input {
     max-width: 264px;
+    margin-bottom: 0;
   }
 }
 
