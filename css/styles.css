@@ -324,13 +324,13 @@ img {
 
 .mobile-menu-nav-link:hover,
 .mobile-menu-nav-link:focus,
-.mobile-menu-nav-link.current {
+.mobile-menu-nav-link.highlight {
   color: #404bbf;
 }
 
 .mobile-menu-address-link:hover,
 .mobile-menu-address-link:focus,
-.mobile-menu-address-link.current {
+.mobile-menu-address-link.highlight {
   color: #4d5ae5;
 }
 
